@@ -1,0 +1,31 @@
+
+body
+{
+	position: relative;
+	font-size: 25px;
+	background-color: var(--color-fondo);
+	background-size: cover;
+	background-position: center;
+	min-height: 100vh;
+	width: 1100px;
+	height: 0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+html{
+    background-color: #fb78f2;
+}
+
+.tenoch{
+	position: absolute;
+	font-size: 15px;
+	background-color: rgb(236, 236, 236, 0);
+	top: 80px;
+	left: 400px;
+	right: 400px;
+	width: 340px;
+}
+
+/*<script src="script.js"></script>
